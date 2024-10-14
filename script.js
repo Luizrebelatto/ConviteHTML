@@ -4,7 +4,7 @@ function mostrarResposta() {
     document.getElementById("resposta-img").style.display = "block";
     var img = document.getElementById("resposta-img");
     img.src =
-      "https://gpsbrasilia.com.br/wp-content/uploads/2023/12/Design-sem-nome-2023-12-12T113049.133.jpg";
+      "./gym.jpg";
     img.height = 300;
   }
   
